@@ -2,8 +2,7 @@
 <br/><br/><br/>
 
 ## Tree
-<br/><br/><br/>
-[100. Same Tree](https://leetcode.com/problems/same-tree)
+[100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
 ## Stack
