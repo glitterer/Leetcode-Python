@@ -3,6 +3,8 @@
 
 ## Tree
 <br/><br/><br/>
+[100. Same Tree](https://leetcode.com/problems/same-tree)
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
 ## Stack
 [155. Min Stack](https://leetcode.com/problems/min-stack/)
