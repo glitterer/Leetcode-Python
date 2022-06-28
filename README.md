@@ -14,8 +14,10 @@
 [155. Min Stack](https://leetcode.com/problems/min-stack/)
 
 ## Sort
+[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br/>
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) <br/>
 [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) <br/>
+[1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) <br/>
 [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) <br/>
 [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) <br/>
 
