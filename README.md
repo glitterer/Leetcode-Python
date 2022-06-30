@@ -19,7 +19,7 @@
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) <br/>
 [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) <br/>
 [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) <br/>
-[1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+[1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) <br/>
 [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) <br/>
 [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) <br/>
 
