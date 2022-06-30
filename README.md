@@ -21,6 +21,7 @@
 [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) <br/>
 [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) <br/>
 [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) <br/>
+[1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) <br/>
 [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) <br/>
 
 ## Uncategorized
