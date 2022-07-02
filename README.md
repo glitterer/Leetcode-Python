@@ -1,11 +1,15 @@
 # Links to the questions
+⚡️: Questions I keep getting wrong
 <br/><br/><br/>
+
+## Array
+⚡️[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ······ (cf)[sliding window](https://leetcode.com/tag/sliding-window/) <br/>
 
 ## Tree
 [100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree) <br/>
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) <br/>
-[112. Path Sum](https://leetcode.com/problems/path-sum) <br/>
+[112. Path Sum](https://leetcode.com/problems/path-sum) <br/>·
 [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) <br/>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) <br/>
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br/>
