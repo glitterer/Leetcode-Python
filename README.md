@@ -3,7 +3,9 @@
 <br/><br/><br/>
 
 ## Array
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
 ⚡️[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ······ (cf)[sliding window](https://leetcode.com/tag/sliding-window/) <br/>
+
 
 ## Tree
 [100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
