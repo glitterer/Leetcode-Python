@@ -3,6 +3,7 @@
 <br/><br/><br/>
 
 ## Array
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
 ⚡️[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ······ (cf)[sliding window](https://leetcode.com/tag/sliding-window/) <br/>
 
