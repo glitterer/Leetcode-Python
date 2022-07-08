@@ -25,6 +25,7 @@
 ## Sort
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br/>
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) <br/>
+[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) <br/>
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) <br/>
 [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) <br/>
 [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) <br/>
