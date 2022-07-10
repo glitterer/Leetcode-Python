@@ -6,7 +6,9 @@
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
 ⚡️[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ······ (cf)[sliding window](https://leetcode.com/tag/sliding-window/) <br/>
+[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) <br/>
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) <br/>
+[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) <br/>
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) <br/>
 
 
