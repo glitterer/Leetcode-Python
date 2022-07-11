@@ -25,7 +25,7 @@
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br/>
 
 ## Stack
-[155. Min Stack](https://leetcode.com/problems/min-stack/)
+[155. Min Stack](https://leetcode.com/problems/min-stack/) <br/>
 [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) <br/>
 
 ## Sort
