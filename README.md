@@ -26,6 +26,7 @@
 
 ## Stack
 [155. Min Stack](https://leetcode.com/problems/min-stack/)
+[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) <br/>
 
 ## Sort
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br/>
