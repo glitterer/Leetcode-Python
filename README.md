@@ -29,6 +29,7 @@
 [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) <br/>
 
 ## Sort
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) <br/>
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br/>
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) <br/>
 [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) <br/>
