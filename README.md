@@ -10,6 +10,7 @@
 ⚡️[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ······ (cf)[sliding window](https://leetcode.com/tag/sliding-window/) <br/>
 [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) <br/>
 [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) <br/>
+[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) <br/>
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) <br/>
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) <br/>
 👀[1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
