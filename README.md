@@ -13,7 +13,7 @@
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) <br/>
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) <br/>
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) <br/>
-👀[1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
+[1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) <br/>
 [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/>
 
@@ -30,6 +30,7 @@
 
 ## Stack
 [155. Min Stack](https://leetcode.com/problems/min-stack/) <br/>
+[1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) <br/>
 
 ## Sort
