@@ -14,3 +14,17 @@ class Solution:
                     original.pop(0)
                 ans.append(temp)
             return ans
+        
+        '''
+        # 더 간단하고 정제된 코드
+        ans = []
+        cnt = 0
+        if m*n != len(original):
+            return ans
+        else:
+#             for i in range(m):
+#                 temp = original[i*n:(i+1)*n]
+#                 ans.append(temp)
+#             return ans
+            return [original[i*n:(i+1)*n] for i in range(m)]
+            '''
