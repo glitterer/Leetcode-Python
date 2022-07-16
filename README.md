@@ -33,6 +33,9 @@
 [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) <br/>
 
+## Queue
+[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) <br/>
+
 ## Sort
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) <br/>
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br/>
@@ -49,5 +52,4 @@
 
 ## Uncategorized
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
-[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) <br/>
 [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) <br/>
