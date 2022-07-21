@@ -5,7 +5,6 @@
 
 ## Array
 👀[1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
-[136. Single Number[(https://leetcode.com/problems/single-number/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
@@ -19,6 +18,8 @@
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) <br/>
 [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/>
 
+## Maps
+[136. Single Number](https://leetcode.com/problems/single-number/) <br/>
 
 ## Tree
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) <br/>
