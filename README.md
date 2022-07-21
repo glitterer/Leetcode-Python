@@ -5,6 +5,7 @@
 
 ## Array
 👀[1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
+[136. Single Number[(https://leetcode.com/problems/single-number/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
