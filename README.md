@@ -1,10 +1,11 @@
 # Links to the questions
 ⚡️: Questions I keep getting wrong <br/>
 👀: Need to try again with another method (i.e. different category)
+🥊: Need to give is another try "On My Own"
 <br/><br/><br/>
 
 ## Array
-👀[1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
+👀 [1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
@@ -17,6 +18,9 @@
 [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) <br/>
 [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/>
+
+## Linked List
+🥊 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ## Maps
 [136. Single Number](https://leetcode.com/problems/single-number/) <br/>
