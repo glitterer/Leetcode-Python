@@ -1,6 +1,6 @@
 # Links to the questions
 ⚡️: Questions I keep getting wrong <br/>
-👀: Need to try again with another method (i.e. different category)
+👀: Need to try again with another method (i.e. different category) <br/>
 🥊: Need to give is another try "On My Own"
 <br/><br/><br/>
 
