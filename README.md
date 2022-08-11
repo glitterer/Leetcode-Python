@@ -21,6 +21,7 @@
 
 ## Linked List
 🥊 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) <br/>
 
 ## Maps
 [136. Single Number](https://leetcode.com/problems/single-number/) <br/>
