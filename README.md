@@ -59,4 +59,5 @@
 
 ## Uncategorized
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
+[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) <br/>
 [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) <br/>
