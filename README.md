@@ -56,6 +56,7 @@
 [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) <br/>
 [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) <br/>
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) <br/>
+[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) <br/>
 [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) <br/>
 [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) <br/>
 [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) <br/>
