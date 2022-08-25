@@ -14,6 +14,7 @@
 [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) <br/>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) <br/>
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) <br/>
+[1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) <br/>
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) <br/>
 [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  -  Recursion으로 푸는 방법도 가능 <br/>
