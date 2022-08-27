@@ -2,6 +2,7 @@
 ⚡️: Questions I keep getting wrong <br/>
 👀: Need to try again with another method (i.e. different category) <br/>
 🥊: Need to give is another try "On My Own"
+🥺: Forgot -> solved again
 <br/><br/><br/>
 
 ## Array
@@ -33,13 +34,13 @@
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) <br/>
 
 ## Tree
-[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) <br/>
-[100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
-[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree) <br/>
-[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) <br/>
-[112. Path Sum](https://leetcode.com/problems/path-sum) <br/>
-[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) <br/>
-[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) <br/>
+🥺[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) <br/>
+🥺[100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
+🥺[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree) <br/>
+🥺[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) <br/>
+🥺[112. Path Sum](https://leetcode.com/problems/path-sum) <br/>
+🥺[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) <br/>
+🥺[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) <br/>
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br/>
 
 ## Stack
