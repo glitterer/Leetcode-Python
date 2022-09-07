@@ -42,6 +42,7 @@
 🥺[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) <br/>
 🥺[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) <br/>
 [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) <br/>
+[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) <br/>
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br/>
 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) <br/>
 
