@@ -32,6 +32,7 @@
 ## Maps
 [136. Single Number](https://leetcode.com/problems/single-number/) <br/>
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) <br/>
+[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) <br/>
 
 ## Tree
 🥺[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) <br/>
