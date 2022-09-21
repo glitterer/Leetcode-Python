@@ -22,3 +22,23 @@ class Solution:
                 ans.append(res[i])
         print(ans)
         return ans
+
+    
+'''
+class Solution:
+    def groupThePeople(self, groupSizes: List[int]) -> List[List[int]]:
+        # https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/discuss/708478/Pyhton-Using-Defaultdict
+        d= collections.defaultdict(list)
+        for i in range(len(groupSizes)):
+            d[groupSizes[i]].append(i)
+            
+        res=[]
+        for c in d:
+            
+            while d[c]:
+                temp=[]
+                for i in range(c):
+                    temp.append(d[c].pop())
+                res.append(temp)
+        return res
+'''
