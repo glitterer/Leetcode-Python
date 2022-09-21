@@ -20,6 +20,7 @@
 [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) <br/>
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  -  Recursion으로 푸는 방법도 가능 <br/>
 [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/>
+[2079. Watering Plants](https://leetcode.com/problems/watering-plants/) <br/>
 
 ## Linked List
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) <br/>
