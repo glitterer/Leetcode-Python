@@ -84,6 +84,7 @@
 
 ## Uncategorized
 [342. Power of Four](https://leetcode.com/problems/power-of-four/) <br/>
+[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) <br/>
 [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) <br/>
