@@ -32,6 +32,9 @@
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) <br/>
 [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) <br/>
 
+## String
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br/>
+
 ## Maps
 [136. Single Number](https://leetcode.com/problems/single-number/) <br/>
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) <br/>
