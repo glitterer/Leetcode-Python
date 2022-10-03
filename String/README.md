@@ -2,3 +2,4 @@
 
 * .split()
 * .join()
+* .replace()
