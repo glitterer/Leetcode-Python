@@ -7,6 +7,7 @@
 
 ## Array
 👀 [1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
+[189. Rotate Array](https://leetcode.com/problems/rotate-array/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) <br/>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) <br/>
