@@ -82,8 +82,11 @@
 [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) <br/>
 [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) <br/>
 
-## Uncategorized
+## Math
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) <br/>
 [342. Power of Four](https://leetcode.com/problems/power-of-four/) <br/>
+
+## Uncategorized
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) <br/>
