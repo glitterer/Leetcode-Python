@@ -44,6 +44,9 @@
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) <br/>
 [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) <br/>
 
+## DFS
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/) <br/>
+
 ## Tree
 🥺[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) <br/>
 🥺[100. Same Tree](https://leetcode.com/problems/same-tree) <br/>
