@@ -7,6 +7,7 @@
 
 ## Array
 👀 [1. Two Sum](https://leetcode.com/problems/two-sum/) <br/>
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) <br/>
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/) <br/>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/) <br/>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) <br/>
